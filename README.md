@@ -7,8 +7,7 @@
 - 🌱 I’m currently learning **Blockchain and related technology.**
 
 - 📫 How to reach me **jenishkp07@gmail.com**
-- 
-- ⚡ Fun fact: **I love turning coffee into code—one cup at a time **.
+- ⚡ Fun fact: **I love turning coffee into code—one cup at a time**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
