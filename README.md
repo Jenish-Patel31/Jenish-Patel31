@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=jenish-patel31&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
- # <img align="right" width="400" style="border-radius:50%" src="" alt="Coding GIF">
+ //<img align="right" width="400" style="border-radius:50%" src="" alt="Coding GIF">
 
 
 - 🌱 Currently exploring **Blockchain Technology**.
